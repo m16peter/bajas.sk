@@ -1,0 +1,149 @@
+{
+  "data":
+  {
+    "announcements":
+    {
+      "content":
+      {
+        "title-i18n":
+        {
+          "sk": "Stretnutie Slovákov z Rumunska žijúcich na Slovensku",
+          "ro": "Întâlnirea creștinilor Romăni în Slovacia"
+        },
+        "description-i18n":
+        {
+          "sk": "Sme skupina ľudí pochádzajúca z Bajaša a okolia",
+          "ro": "Suntem un grup de oameni din zona Sacalasău Nou"
+        }
+      },
+      "cards":
+      [
+        {
+          "lines":
+          [
+            {
+              "line-i18n":
+              {
+                "sk": "Najbližšie stretnutie budeme mať 30.06.2018",
+                "ro": "Următoarea întălnire va fi în 30.06.2018"
+              }
+            },
+            {
+              "line-i18n":
+              {
+                "sk": "Matúš Moyzes & Chvalospevka z NM",
+                "ro": "Matúš Moyzes & Grupul de laudă și închinare din NM"
+              }
+            }
+          ],
+          "background": "#9733EE"
+        },
+        {
+          "lines":
+          [
+            {
+              "line-i18n":
+              {
+                "sk": "Ďalšie stretnutie bude: 24.11.2018",
+                "ro": "Următoarea întălnire va fi în 24.11.2018"
+              }
+            }
+          ],
+          "background": "#F09819"
+        }
+      ]
+    },
+    "video-archive":
+    {
+      "content":
+      {
+        "title-i18n":
+        {
+          "sk": "Video Archív",
+          "ro": "Arhivă Video"
+        },
+        "description-i18n":
+        {
+          "sk": "",
+          "ro": ""
+        }
+      },
+      "video":
+      {
+        "id": "s7jXASBWwwI",
+        "image": "url('assets/video-archive/img/hillsong.png')"
+      }
+    },
+    "photo-archive":
+    {
+      "content":
+      {
+        "title-i18n":
+        {
+          "sk": "Foto Archív",
+          "ro": "Arhivă Foto"
+        },
+        "description-i18n":
+        {
+          "sk": "",
+          "ro": ""
+        }
+      },
+      "album":
+      [
+        "url('assets/photo-archive/img/1.jpg')",
+        "url('assets/photo-archive/img/2.jpg')",
+        "url('assets/photo-archive/img/3.jpg')",
+        "url('assets/photo-archive/img/4.jpg')",
+        "url('assets/photo-archive/img/5.jpg')",
+        "url('assets/photo-archive/img/6.jpg')",
+        "url('assets/photo-archive/img/7.jpg')",
+        "url('assets/photo-archive/img/9.jpg')",
+        "url('assets/photo-archive/img/11.jpg')"
+      ]
+    },
+    "contact":
+    {
+      "content":
+      {
+        "title-i18n":
+        {
+          "sk": "Kontakt",
+          "ro": "Contact"
+        },
+        "description":
+        [
+          {
+            "line-i18n":
+            {
+              "sk": "Apoštolská Cirkev",
+              "ro": "Biserica Penticostală"
+            }
+          },
+          {
+            "line-i18n":
+            {
+              "sk": "Tehelná 12",
+              "ro": "Tehelná 12"
+            }
+          },
+          {
+            "line-i18n":
+            {
+              "sk": "915 01 Nové Mesto nad Váhom",
+              "ro": "915 01 Nové Mesto nad Váhom"
+            }
+          }
+        ]
+      },
+      "cards":
+      [
+        {
+          "name": "Janko Gaidos",
+          "phone": "+421 944 949 475",
+          "mail": ""
+        }
+      ]
+    }
+  }
+}
