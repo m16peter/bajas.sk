@@ -24,32 +24,19 @@
             {
               "line-i18n":
               {
-                "sk": "Najbližšie stretnutie budeme mať 30.06.2018",
-                "ro": "Următoarea întălnire va fi în 30.06.2018"
+                "sk": "Najbližšie stretnutie budeme mať 24.11.2018",
+                "ro": "Următoarea întălnire va fi în 24.11.2018"
               }
             },
             {
               "line-i18n":
               {
-                "sk": "Matúš Moyzes & Chvalospevka z NM",
-                "ro": "Matúš Moyzes & Grupul de laudă și închinare din NM"
+                "sk": "Vladimir Pustan",
+                "ro": "Vladimir Pustan"
               }
             }
           ],
           "background": "#9733EE"
-        },
-        {
-          "lines":
-          [
-            {
-              "line-i18n":
-              {
-                "sk": "Ďalšie stretnutie bude: 24.11.2018",
-                "ro": "Următoarea întălnire va fi în 24.11.2018"
-              }
-            }
-          ],
-          "background": "#F09819"
         }
       ]
     },
