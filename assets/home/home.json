@@ -16,29 +16,7 @@
           "ro": "Suntem un grup de oameni din zona Sacalasău Nou"
         }
       },
-      "cards":
-      [
-        {
-          "lines":
-          [
-            {
-              "line-i18n":
-              {
-                "sk": "Najbližšie stretnutie budeme mať 24.11.2018",
-                "ro": "Următoarea întălnire va fi în 24.11.2018"
-              }
-            },
-            {
-              "line-i18n":
-              {
-                "sk": "Vladimir Pustan",
-                "ro": "Vladimir Pustan"
-              }
-            }
-          ],
-          "background": "#9733EE"
-        }
-      ]
+      "cards": []
     },
     "video-archive":
     {
@@ -57,8 +35,8 @@
       },
       "video":
       {
-        "id": "s7jXASBWwwI",
-        "image": "url('assets/video-archive/img/hillsong.png')"
+        "id": "0jVXLdblzSI",
+        "image": "url('assets/video-archive/img/youtube.jpeg')"
       }
     },
     "photo-archive":
@@ -79,14 +57,10 @@
       "album":
       [
         "url('assets/photo-archive/img/1.jpg')",
-        "url('assets/photo-archive/img/2.jpg')",
         "url('assets/photo-archive/img/3.jpg')",
-        "url('assets/photo-archive/img/4.jpg')",
         "url('assets/photo-archive/img/5.jpg')",
-        "url('assets/photo-archive/img/6.jpg')",
         "url('assets/photo-archive/img/7.jpg')",
-        "url('assets/photo-archive/img/9.jpg')",
-        "url('assets/photo-archive/img/11.jpg')"
+        "url('assets/photo-archive/img/9.jpg')"
       ]
     },
     "contact":
