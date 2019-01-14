@@ -1,61 +1,46 @@
 {
-  "data":
-  {
-    "announcements":
-    {
-      "content":
-      {
-        "title-i18n":
-        {
+  "data": {
+    "announcements": {
+      "content": {
+        "title-i18n": {
           "sk": "Stretnutie Slovákov z Rumunska žijúcich na Slovensku",
           "ro": "Întâlnirea creștinilor Romăni în Slovacia"
         },
-        "description-i18n":
-        {
+        "description-i18n": {
           "sk": "Sme skupina ľudí pochádzajúca z Bajaša a okolia",
           "ro": "Suntem un grup de oameni din zona Sacalasău Nou"
         }
       },
       "cards": []
     },
-    "video-archive":
-    {
-      "content":
-      {
-        "title-i18n":
-        {
+    "video-archive": {
+      "content": {
+        "title-i18n": {
           "sk": "Video Archív",
           "ro": "Arhivă Video"
         },
-        "description-i18n":
-        {
+        "description-i18n": {
           "sk": "",
           "ro": ""
         }
       },
-      "video":
-      {
+      "video": {
         "id": "0jVXLdblzSI",
-        "image": "url('assets/video-archive/img/youtube.jpeg')"
+        "image": "url('assets/video-archive/img/youtube.jpg')"
       }
     },
-    "photo-archive":
-    {
-      "content":
-      {
-        "title-i18n":
-        {
+    "photo-archive": {
+      "content": {
+        "title-i18n": {
           "sk": "Foto Archív",
           "ro": "Arhivă Foto"
         },
-        "description-i18n":
-        {
+        "description-i18n": {
           "sk": "",
           "ro": ""
         }
       },
-      "album":
-      [
+      "album": [
         "url('assets/photo-archive/img/1.jpg')",
         "url('assets/photo-archive/img/3.jpg')",
         "url('assets/photo-archive/img/5.jpg')",
@@ -63,42 +48,34 @@
         "url('assets/photo-archive/img/9.jpg')"
       ]
     },
-    "contact":
-    {
-      "content":
-      {
-        "title-i18n":
-        {
+    "contact": {
+      "content": {
+        "title-i18n": {
           "sk": "Kontakt",
           "ro": "Contact"
         },
-        "description":
-        [
+        "description": [
           {
-            "line-i18n":
-            {
+            "line-i18n": {
               "sk": "Apoštolská Cirkev",
               "ro": "Biserica Penticostală"
             }
           },
           {
-            "line-i18n":
-            {
+            "line-i18n": {
               "sk": "Tehelná 12",
               "ro": "Tehelná 12"
             }
           },
           {
-            "line-i18n":
-            {
+            "line-i18n": {
               "sk": "915 01 Nové Mesto nad Váhom",
               "ro": "915 01 Nové Mesto nad Váhom"
             }
           }
         ]
       },
-      "cards":
-      [
+      "cards": [
         {
           "name": "Janko Gaidos",
           "phone": "+421 944 949 475",
